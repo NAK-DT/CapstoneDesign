@@ -5,7 +5,7 @@ import re
 from ast import parse
 from ast2json import ast2json
 
-dir_path = "/home/skdanski/Documents/capstone_project/Project_CodeNet_Python800"
+dir_path = "https://github.com/NAK-DT/CapstoneDesign.git"
 regex = r'(?<!: )"(\S*?)"'
 
 # create the AST and save it in a .json file
